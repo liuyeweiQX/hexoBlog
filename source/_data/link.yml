@@ -1,0 +1,55 @@
+- class_name: 友情链接
+  class_desc:
+  link_list:
+    - name: 今今今生
+      link: https://noheart.cn
+      avatar: https://noheart.cn/upload/mylife.jpg
+      descr: 医不自医，人不渡己
+    - name: 程序猿张先森
+      link: https://www.zhyocean.cn/
+      avatar: /images/link/zhy.png
+      descr: 一盆小花，一杯清茶
+    - name: Javid
+      link: https://javid.cn
+      avatar: https://cdn.jsdelivr.net/gh/Javid-Xi/cdn@1.9.1/img/jxlogo.png
+      descr: 一个技术路上的おとこの
+    - name: MuJin’s Blog
+      link: https://xiabor.com
+      avatar: https://xiabor.com/img/avatar.png
+      descr: 君浅吟，叹落笔
+    - name: Flexiston
+      link: https://flexiston.com
+      avatar: https://rmt.dogedoge.com/fetch/Flexiston/storage/avatar-min.jpg?fmt=webp
+      descr: 立即行动吧，未来要自己争取
+    - name: Altri
+      link: https://www.neroarc.cn/
+      avatar: https://fjxblog.oss-cn-shenzhen.aliyuncs.com/user/1/blogImg/fjx.jpg
+      descr: 我们的相遇是很久以前就注定的命运
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方
+    - name: Lete乐特
+      link: https://www.lete114.top/
+      avatar: https://www.lete114.top/img/avatar.png
+      descr: 人生只有一次，大胆的生活！！
+    - name: 清峰
+      link: http://www.qingfenginn.top/
+      avatar: http://www.qingfenginn.top/images/me.jpg
+      descr: 你若盛开，清峰自来
+
+- class_name: 网站与工具
+  class_desc:
+  link_list:
+    - name: 哔哩哔哩
+      link: https://www.bilibili.com/
+      avatar: /images/link/bilibili.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: /images/link/weibo.png
+      descr: 社交分享平台
+    - name: Imagine
+      link: https://github.com/meowtec/Imagine/releases/
+      avatar: /images/link/imagine.png
+      descr: 图片压缩工具
