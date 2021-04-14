@@ -976,20 +976,3 @@ CDN:
   prismjs_lineNumber_js: https://cdn.jsdelivr.net/npm/prismjs/plugins/line-numbers/prism-line-numbers.min.js
   prismjs_autoloader: https://cdn.jsdelivr.net/npm/prismjs/plugins/autoloader/prism-autoloader.min.js
 
-# Aplayer播放器配置 吸底 后期添加
-#aplayer:
-#  enable: true
-#  js:
-#    - https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js
-#    #- https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js
-#    - https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
-#  css:
-#    - https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css
-#  id: 7639634221 #qq音乐歌单编号
-#  server: tencent #qq音乐
-#  type: playlist
-#  fixed: 'true'
-#  order: random
-#  preload: none
-#  listFolded: 'false'
-

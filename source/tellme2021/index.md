@@ -48,6 +48,12 @@ top_img: https://cdn.jsdelivr.net/gh/liuyeweiQX/picBed/img/tellme2021Top.jpg
 <div class="note info flat">" 我真正的残疾并不是坐在轮椅中，而是在没有她的世界上活着。 " ------《触不可及》</div>
 <br>
 
+## 2021年04月14日
+<div class="note mynote6">
+1.发布新文章：Git基础学习、xss & sql漏洞解决<br>
+</div>
+<hr>
+
 ## 2021年02月06日
 <div class="note mynote5">
 1.butterfly主题更新到3.6.2<br>
